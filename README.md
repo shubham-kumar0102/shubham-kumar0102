@@ -1,4 +1,4 @@
-I'm [@shubham-kumar0102](invalid URL removed), an aspiring developer with a fascination for the world of AI and Machine Learning . Currently, I'm diving deep into the world of Django ️ to unlock the power of web development.
+I'm Shubham, an aspiring developer with a fascination for the world of AI and Machine Learning . Currently, I'm diving deep into the world of Django ️ to unlock the power of web development.
 
 **Looking to:**
 
